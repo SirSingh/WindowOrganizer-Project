@@ -9,3 +9,6 @@ or other options that will take less time.
 
 Current road map is to complete command-line application, then building gui where greater customization will be availble for window organization.
 
+Program is run through main.py
+Each application is set into a window class as defined in window.py, which include methods to manipulate the applications
+Screensize.py manages the measurement for application height, width and starting co-ordinate
